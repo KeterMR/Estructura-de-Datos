@@ -6,6 +6,7 @@
 /[Tt]emp/
 /[Oo]bj/
 /[Bb]uild/
+/[Bb]in/
 /[Bb]uilds/
 /[Ll]ogs/
 /[Mm]emoryCaptures/
@@ -53,7 +54,7 @@ sysinfo.txt
 
 # Builds
 *.apk
-*.unitypackage
+
 
 # Crashlytics generated file
 crashlytics-build.properties
